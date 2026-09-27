@@ -10,7 +10,8 @@ FCD 是一款由 FUA STUDIO 打造的 AI 编码代理。它能阅读代码、修
 - **操控电脑**：截屏、移动鼠标、点击、输入文字、管理窗口、操作剪贴板，让 AI 替你操作图形界面。
 - **MCP 扩展**：通过 Model Context Protocol 接入 Blender、Ghidra、IDA、Wireshark 等外部工具生态。
 - **多模型自由切换**：内置 3 款免费模型，开箱即用；也可自带任意 OpenAI 兼容服务的 Key。
-
+<img width="976" height="512" alt="image" src="https://github.com/user-attachments/assets/f4835873-47a5-4f1a-90d3-d29c16952854" />
+这是CLI界面
 ## 下载与形式
 
 | 版本            | 平台         | 说明                         |
