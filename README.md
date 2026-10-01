@@ -12,6 +12,9 @@ FCD 是一款由 FUA STUDIO 打造的 AI 编码代理。它能阅读代码、修
 - **多模型自由切换**：内置 3 款免费模型，开箱即用；也可自带任意 OpenAI 兼容服务的 Key。
 <img width="976" height="512" alt="image" src="https://github.com/user-attachments/assets/f4835873-47a5-4f1a-90d3-d29c16952854" />
 这是CLI界面
+接下来是desktop界面
+<img width="1118" height="746" alt="image" src="https://github.com/user-attachments/assets/c6161dad-e732-4f0f-9444-9b93f59a8253" />
+
 
 ## 下载与形式
 [下载最新版](https://github.com/FUA-Studio/FCD/releases)
