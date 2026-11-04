@@ -1,0 +1,15 @@
+# Build output
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+
+# Runtime data
+data/
+
+# OS
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
